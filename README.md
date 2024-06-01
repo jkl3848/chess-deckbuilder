@@ -1,2 +1,3 @@
 # chess-deckbuilder
-A chess deckbuilder game in JS
+
+A deckbuilder chess game written in Vue.JS
